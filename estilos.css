@@ -1,0 +1,88 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@50..200,200..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+li{
+    color: #067971;
+    font-weight: 500;
+    font-size: 36px;
+    font-family:"Raleway"; 
+   }
+
+a:link{
+    color: #067971;}
+
+    a {
+        text-decoration: none;
+    }
+    
+
+#vinculo {
+
+font-size: 40px;
+font-weight: 800;
+font-family: "Raleway";
+color: #067971;
+
+;}
+
+#vinculo:hover, a:hover {
+ color: rgb(178, 246, 223);
+}
+
+a:visited, #vinculo:visited {
+color: #d7effc ;
+
+
+}
+header {width: 100%;
+    height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+h1{text-align: center;
+;
+    color: #6D6875;
+    font-weight: 800;
+    font-size: 72px;
+    font-family:"Raleway"; 
+}
+
+h2{text-align: justify;
+    color: #067971;
+    font-weight: 500;
+    font-size: 50px;
+    font-family:"Raleway"; 
+    background-color: #d7effc;
+}
+
+body{
+    text-align: justify;
+    margin: 5%;
+    color: #878787;
+    font-weight: 300;
+    font-family:"Inconsolata"; 
+}
+
+section {font-size: 30px;}
+
+
+
+
+img { 
+width: 20%;
+display: block;
+margin: auto; 
+border-radius: 50%; }
+    
+
+
+
+
+    
+
+    
